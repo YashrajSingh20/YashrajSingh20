@@ -26,9 +26,11 @@ Currently, I'm looking for a full-time role or internship where I can apply my p
 * **Tech:** Python, Scikit-learn (Random Forest), Pandas, Seaborn, Power BI, SQL.
 * **Impact:** Developed a predictive model to forecast delivery delays based on historical shipping data and built an interactive dashboard to visualize logistics bottlenecks.
 
-**[ResolveAI - Automated Customer Support Ticket Triage]([Link to your repo here])**
-* **Tech:** Python, NLTK, SpaCy, Scikit-learn (Logistic Regression), TF-IDF Vectorization.
-* **Impact:** Built an NLP pipeline to automate the categorization and routing of unstructured customer support tickets, optimizing manual QA processes.
+**[MedXpert - Digital Healthcare Prescription Platform](https://github.com/YashrajSingh20/MedXpert-Final)**
+* Tech: React 18, TypeScript, Vite, TailwindCSS, Dexie.js, Tesseract.js, jsPDF, Web Speech API
+* Impact: Built a full-stack web app to digitize prescriptions for Doctors, Patients & Medical Stores.
+  Features AI handwriting recognition, voice input, UHID records, PDF generation, and a futuristic dark UI.
+
 
 ---
 
