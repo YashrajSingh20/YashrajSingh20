@@ -18,13 +18,12 @@ Currently, I'm looking for a full-time role or internship where I can apply my p
 
 ### 🚀 Featured Projects
 
-**[FinGuard - Cloud-Based Financial Anomaly Detection System]([Link to your repo here])**
-* **Tech:** Python, Google Cloud Platform (GCP), BigQuery (SQL), Scikit-learn (XGBoost), Pandas.
-* **Impact:** Engineered an Anti-Money Laundering (AML) detection pipeline to process synthetic financial transactions and detect fraudulent patterns, reducing false positives through optimized ML models.
 
-**[LogiTrack - E-Commerce Supply Chain Delay Predictor]([Link to your repo here])**
-* **Tech:** Python, Scikit-learn (Random Forest), Pandas, Seaborn, Power BI, SQL.
-* **Impact:** Developed a predictive model to forecast delivery delays based on historical shipping data and built an interactive dashboard to visualize logistics bottlenecks.
+**[KYC Verification - AI-Powered Identity System](https://github.com/YashrajSingh20/kyc-verification)**
+* **Tech**: React.js, Python (FastAPI), OpenCV, dlib, Face Recognition API, CSS Glassmorphism
+* **Impact**: Developed a secure, full-stack identity verification ecosystem combining advanced computer vision with a premium user experience.
+  Features real-time facial matching, automated ID document processing, and a high-fidelity **"Midnight Aurora"** futuristic dark UI.
+
 
 **[MedXpert - Digital Healthcare Prescription Platform](https://github.com/YashrajSingh20/MedXpert-Final)**
 * Tech: React 18, TypeScript, Vite, TailwindCSS, Dexie.js, Tesseract.js, jsPDF, Web Speech API
