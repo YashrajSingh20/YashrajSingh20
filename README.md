@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Yashraj Singh! 👋
 
-<!--
-**YashrajSingh20/YashrajSingh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Final Year B.Tech Data Science Student | Aspiring Data Analyst & Engineer**
 
-Here are some ideas to get you started:
+I am a data science enthusiast currently in my final year at CMR University. I specialize in turning raw, messy data into actionable business insights. I am passionate about building automated data pipelines, exploring machine learning models, and solving real-world operational problems. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm looking for a full-time role or internship where I can apply my predictive modeling and data analysis skills to drive business growth.
+
+---
+
+### 🛠️ Tech Stack & Skills
+* **Languages:** Python, SQL
+* **Data Science & ML:** Pandas, NumPy, Scikit-learn, NLTK
+* **Data Visualization:** Matplotlib, Seaborn, Power BI / Tableau
+* **Cloud & Tools:** Git, GitHub, Jupyter, [Google Cloud Platform (GCP) / Basic AWS]
+
+---
+
+### 🚀 Featured Projects
+
+**[FinGuard - Cloud-Based Financial Anomaly Detection System]([Link to your repo here])**
+* **Tech:** Python, Google Cloud Platform (GCP), BigQuery (SQL), Scikit-learn (XGBoost), Pandas.
+* **Impact:** Engineered an Anti-Money Laundering (AML) detection pipeline to process synthetic financial transactions and detect fraudulent patterns, reducing false positives through optimized ML models.
+
+**[LogiTrack - E-Commerce Supply Chain Delay Predictor]([Link to your repo here])**
+* **Tech:** Python, Scikit-learn (Random Forest), Pandas, Seaborn, Power BI, SQL.
+* **Impact:** Developed a predictive model to forecast delivery delays based on historical shipping data and built an interactive dashboard to visualize logistics bottlenecks.
+
+**[ResolveAI - Automated Customer Support Ticket Triage]([Link to your repo here])**
+* **Tech:** Python, NLTK, SpaCy, Scikit-learn (Logistic Regression), TF-IDF Vectorization.
+* **Impact:** Built an NLP pipeline to automate the categorization and routing of unstructured customer support tickets, optimizing manual QA processes.
+
+---
+
+### 📫 Let's Connect!
+* **LinkedIn:** [Link to your LinkedIn Profile](https://www.linkedin.com/in/yash-41abb8336/)
+* **Email:** [Your Email Address](bayasyashraj8@gamil.com)
+* **Portfolio:** [Link to your personal website if you have one, or delete this line]
+
+💬 *Ask me about Data Analytics, Machine Learning, or my latest Python scripts!*
