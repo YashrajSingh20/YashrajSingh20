@@ -30,6 +30,12 @@ Currently, I'm looking for a full-time role or internship where I can apply my p
 * Impact: Built a full-stack web app to digitize prescriptions for Doctors, Patients & Medical Stores.
   Features AI handwriting recognition, voice input, UHID records, PDF generation, and a futuristic dark UI.
 
+**[SmartRetail Intelligence - E-Commerce Predictive Analytics Platform](https://github.com/YashrajSingh20/SmartRetail-Intelligence-Platform)**
+* Tech: Python, FastAPI, Streamlit, PostgreSQL (Supabase), Scikit-Learn, XGBoost, Meta Prophet, Docker
+* Impact: Built a full-stack AI platform to analyze and predict e-commerce customer behavior. 
+  Features a Random Forest Churn Predictor, a 30-day Prophet Time-Series Revenue Forecast, an AI Product Recommendation engine, an automated DB ETL pipeline, and a highly interactive, futuristic dark UI dashboard.
+
+
 
 ---
 
