@@ -42,6 +42,6 @@ Currently, I'm looking for a full-time role or internship where I can apply my p
 ### 📫 Let's Connect!
 * **LinkedIn:** [Link to your LinkedIn Profile](https://www.linkedin.com/in/yash-41abb8336/)
 * **Email:** [Your Email Address](bayasyashraj8@gamil.com)
-* **Portfolio:** [Link to your personal website if you have one, or delete this line]
+* **Portfolio:** https://yash-portfolio-dun.vercel.app/
 
 💬 *Ask me about Data Analytics, Machine Learning, or my latest Python scripts!*
